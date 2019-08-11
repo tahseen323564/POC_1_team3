@@ -1,0 +1,104 @@
+11/08/2019 19:26:37 devpinoyLogger Method verify_txt
+Expected Result: Search Products
+Actual Result: Search Products
+Test Result: FAIL
+11/08/2019 19:26:37 devpinoyLogger Method verify executed 
+Expected Result: Search Products
+ Actual Result: Search Products
+ Test Result: PASS
+11/08/2019 19:26:37 devpinoyLogger Method verify_txt_1
+Expected Result: Categories
+Actual Result: Categories
+Test Result: FAIL
+11/08/2019 19:26:37 devpinoyLogger Method verify executed 
+Expected Result: Categories
+ Actual Result: Categories
+ Test Result: PASS
+11/08/2019 19:26:37 devpinoyLogger Method verify_number
+Expected Result: 13
+Actual Result: 13
+Test Result: FAIL
+11/08/2019 19:26:37 devpinoyLogger Method verify_number executed 
+Expected Result: 13
+ Actual Result: 13
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: $39.96
+ Actual Result: $39.96
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: $15.19
+ Actual Result: $15.19
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: $39.99
+ Actual Result: $39.99
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: $23.99
+ Actual Result: $23.99
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: $36.00
+ Actual Result: $36.00
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: $27.96
+ Actual Result: $27.96
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: $35.96
+ Actual Result: $35.96
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: $47.99
+ Actual Result: $47.99
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: $39.99
+ Actual Result: $39.99
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: $31.99
+ Actual Result: $31.99
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: Programming Perl
+ Actual Result: Programming Perl
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: Perl and CGI for the World Wide Web
+ Actual Result: Perl and CGI for the World Wide Web
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: PHP and MySQL Web Development
+ Actual Result: PHP and MySQL Web Development
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: MySQL & PHP From Scratch
+ Actual Result: MySQL & PHP From Scratch
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: Web Development with PHP 4.0
+ Actual Result: Web Development with PHP 4.0
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: Black Belt Web Programming Methods
+ Actual Result: Black Belt Web Programming Methods
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: Web Development with JSP
+ Actual Result: Web Development with JSP
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: Professional JSP J2EE Edition
+ Actual Result: Professional JSP J2EE Edition
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: Mastering ColdFusion 4.5
+ Actual Result: Mastering ColdFusion 4.5
+ Test Result: PASS
+11/08/2019 19:26:39 devpinoyLogger Method verify book price executed 
+Expected Result: Teach Yourself ColdFusion in 21 Days
+ Actual Result: Teach Yourself ColdFusion in 21 Days
+ Test Result: PASS

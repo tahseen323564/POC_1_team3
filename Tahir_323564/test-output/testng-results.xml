@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="24" passed="24">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13967" started-at="2019-08-11T13:56:25Z" finished-at="2019-08-11T13:56:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13967" started-at="2019-08-11T13:56:25Z" finished-at="2019-08-11T13:56:39Z">
+      <class name="TestNg.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestNg.NewTest@55d56113]" name="beforeClass" is-config="true" duration-ms="11173" started-at="2019-08-11T13:56:25Z" finished-at="2019-08-11T13:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="verify_txt()[pri:0, instance:TestNg.NewTest@55d56113]" name="verify_txt" duration-ms="68" started-at="2019-08-11T13:56:37Z" finished-at="2019-08-11T13:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_txt -->
+        <test-method status="PASS" signature="verify_txt_1()[pri:1, instance:TestNg.NewTest@55d56113]" name="verify_txt_1" duration-ms="52" started-at="2019-08-11T13:56:37Z" finished-at="2019-08-11T13:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_txt_1 -->
+        <test-method status="PASS" signature="verify_number()[pri:3, instance:TestNg.NewTest@55d56113]" name="verify_number" duration-ms="129" started-at="2019-08-11T13:56:37Z" finished-at="2019-08-11T13:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_number -->
+        <test-method status="PASS" signature="f()[pri:4, instance:TestNg.NewTest@55d56113]" name="f" duration-ms="1564" started-at="2019-08-11T13:56:37Z" finished-at="2019-08-11T13:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="g(java.lang.String)[pri:5, instance:TestNg.NewTest@55d56113]" name="g" duration-ms="56" started-at="2019-08-11T13:56:38Z" data-provider="bookprice" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[$39.96]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="g(java.lang.String)[pri:5, instance:TestNg.NewTest@55d56113]" name="g" duration-ms="37" started-at="2019-08-11T13:56:39Z" data-provider="bookprice" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[$15.19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="g(java.lang.String)[pri:5, instance:TestNg.NewTest@55d56113]" name="g" duration-ms="42" started-at="2019-08-11T13:56:39Z" data-provider="bookprice" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[$39.99]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="g(java.lang.String)[pri:5, instance:TestNg.NewTest@55d56113]" name="g" duration-ms="44" started-at="2019-08-11T13:56:39Z" data-provider="bookprice" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[$23.99]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="g(java.lang.String)[pri:5, instance:TestNg.NewTest@55d56113]" name="g" duration-ms="44" started-at="2019-08-11T13:56:39Z" data-provider="bookprice" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[$36.00]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="g(java.lang.String)[pri:5, instance:TestNg.NewTest@55d56113]" name="g" duration-ms="44" started-at="2019-08-11T13:56:39Z" data-provider="bookprice" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[$27.96]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="g(java.lang.String)[pri:5, instance:TestNg.NewTest@55d56113]" name="g" duration-ms="44" started-at="2019-08-11T13:56:39Z" data-provider="bookprice" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[$35.96]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="g(java.lang.String)[pri:5, instance:TestNg.NewTest@55d56113]" name="g" duration-ms="40" started-at="2019-08-11T13:56:39Z" data-provider="bookprice" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[$47.99]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="g(java.lang.String)[pri:5, instance:TestNg.NewTest@55d56113]" name="g" duration-ms="40" started-at="2019-08-11T13:56:39Z" data-provider="bookprice" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[$39.99]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="g(java.lang.String)[pri:5, instance:TestNg.NewTest@55d56113]" name="g" duration-ms="40" started-at="2019-08-11T13:56:39Z" data-provider="bookprice" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[$31.99]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="h(java.lang.String)[pri:6, instance:TestNg.NewTest@55d56113]" name="h" duration-ms="36" started-at="2019-08-11T13:56:39Z" data-provider="bookname" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Programming Perl]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="h(java.lang.String)[pri:6, instance:TestNg.NewTest@55d56113]" name="h" duration-ms="32" started-at="2019-08-11T13:56:39Z" data-provider="bookname" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Perl and CGI for the World Wide Web]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="h(java.lang.String)[pri:6, instance:TestNg.NewTest@55d56113]" name="h" duration-ms="28" started-at="2019-08-11T13:56:39Z" data-provider="bookname" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PHP and MySQL Web Development]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="h(java.lang.String)[pri:6, instance:TestNg.NewTest@55d56113]" name="h" duration-ms="28" started-at="2019-08-11T13:56:39Z" data-provider="bookname" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MySQL & PHP From Scratch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="h(java.lang.String)[pri:6, instance:TestNg.NewTest@55d56113]" name="h" duration-ms="32" started-at="2019-08-11T13:56:39Z" data-provider="bookname" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Web Development with PHP 4.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="h(java.lang.String)[pri:6, instance:TestNg.NewTest@55d56113]" name="h" duration-ms="32" started-at="2019-08-11T13:56:39Z" data-provider="bookname" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Black Belt Web Programming Methods]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="h(java.lang.String)[pri:6, instance:TestNg.NewTest@55d56113]" name="h" duration-ms="36" started-at="2019-08-11T13:56:39Z" data-provider="bookname" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Web Development with JSP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="h(java.lang.String)[pri:6, instance:TestNg.NewTest@55d56113]" name="h" duration-ms="28" started-at="2019-08-11T13:56:39Z" data-provider="bookname" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Professional JSP J2EE Edition]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="h(java.lang.String)[pri:6, instance:TestNg.NewTest@55d56113]" name="h" duration-ms="36" started-at="2019-08-11T13:56:39Z" data-provider="bookname" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mastering ColdFusion 4.5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="h(java.lang.String)[pri:6, instance:TestNg.NewTest@55d56113]" name="h" duration-ms="28" started-at="2019-08-11T13:56:39Z" data-provider="bookname" finished-at="2019-08-11T13:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Teach Yourself ColdFusion in 21 Days]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNg.NewTest@55d56113]" name="afterClass" is-config="true" duration-ms="156" started-at="2019-08-11T13:56:39Z" finished-at="2019-08-11T13:56:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestNg.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
